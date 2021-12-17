@@ -1,5 +1,3 @@
-# TypeScript 연습을 위한 저장소
-
 ## 설치방법
 
 `npm install -g typescript`
