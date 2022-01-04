@@ -1,0 +1,14 @@
+// typeScript 컴파일 위한 json 파일
+
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs"
+  }
+}
+
+// ts는 브라우저에서 인식을 하지못함
+
+// 따라서 ts파일을 js파일로 컴파일 해주는 json파일을 생성해야함
+
+// tsc -w 명령어를 실행시키면 실시간으로 저장되는 ts파일을 js파일로 변환해줌
